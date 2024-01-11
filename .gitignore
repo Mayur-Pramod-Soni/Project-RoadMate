@@ -1,0 +1,9 @@
+# .gitignore
+# Ignore compiled files
+*.class
+
+# Ignore build and output directories
+/target/
+/out/
+/frontend/node_modules/
+
